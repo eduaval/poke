@@ -1,0 +1,64 @@
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, div
+pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q,
+s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
+figure, header, nav, section, article, aside, footer, figcaption {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+}
+body{
+    background-image: url('../images/fondo.png');
+}
+.back{
+    background-image: url('../images/fondo2.png');
+}
+.prin{
+    background-color: rgba(255, 255, 255, 0.2);
+}
+.navbar-nav.ml-auto {
+    margin-left: auto !important;
+    
+}
+.navbar-nav a:hover {
+    color: #3498db;
+    transition: color 0.3s ease; 
+}
+.activo {
+    color: #3ad1ff; 
+
+}
+
+.l-style {
+    list-style: none;
+}
+.alto{
+    height: 200px;
+}
+.card{
+    border: #a3a3a3 solid 1px;
+    box-shadow: -5px 5px 5px;
+    cursor: pointer;
+    
+}
+.card:hover{
+    -webkit-transform: scale(1.5);
+    transition: .3s;
+    transform: scale(1.04);
+    
+}
+.bg-poke{
+    background: #bababa;
+}
+
+
+
+
+
+
+
+
+
+
+
+
